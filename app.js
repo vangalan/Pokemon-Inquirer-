@@ -50,3 +50,7 @@ inquirer
 // };
 
 // login();
+
+
+// To see how this app works open your terminal and do "node app.js" 
+//  input the fields that are prompt in the terminal. 
