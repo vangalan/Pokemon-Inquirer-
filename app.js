@@ -15,7 +15,7 @@ inquirer
     {
       type: 'list',
       message: 'choose your first pokemon:',
-      choices: ['Pikachu', 'Squirtle', 'Charmander', 'Ash'],
+      choices: ['Pikachu', 'Squirtle', 'Charmander', 'Eevee', 'Snorlax', 'Mewtwo', 'Psyduck', 'Blastoise', 'Magikarp'],
       name: 'trainerChoice'
     },
     {
